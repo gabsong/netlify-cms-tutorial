@@ -7,9 +7,10 @@ title: Hello from Lisbon!
 
 **Bold**
 
-_Italics_
+*Italics*
 
 `Code`
 
 Setting up a blog with netlify-cms and gatsby.js. Let's try and see if this works.
 
+![you've been iced!](/assets/ci-smirnoff-ice-164a53e87d3b435f.jpeg "Smirnoff")
